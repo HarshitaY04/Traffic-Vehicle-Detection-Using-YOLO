@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+
+# YOLO Models
+*.pt
+
+# Datasets
+dataset_images/
+custom_dataset/
+Pune_Traffic_Fix-2/
+
+# Training Outputs
+runs/
+filtered_results/
+custom_test_results/
+
+# Images & Videos
+*.jpg
+*.jpeg
+*.png
+*.mp4
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
