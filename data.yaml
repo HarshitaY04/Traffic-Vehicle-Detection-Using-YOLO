@@ -1,0 +1,5 @@
+train: ../custom_dataset/images/train
+val: ../custom_dataset/images/train # Using same for validation since we have 30 images
+
+nc: 6
+names: ['auto rickshaw', 'car', 'bus', 'truck', 'motorcycle', 'three wheeler passenger vehicle']
